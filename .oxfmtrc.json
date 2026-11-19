@@ -1,0 +1,9 @@
+{
+  "printWidth": 100,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "semi": true,
+  "sortImports": {
+    "groups": ["builtin", "external", "internal", ["parent", "sibling", "index"]]
+  }
+}
